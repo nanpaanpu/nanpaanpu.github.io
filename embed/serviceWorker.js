@@ -11,6 +11,7 @@ const cacheFiles = new Set([
   '/fIt-hst_gzdF2tR4BIfC8g.wav',
 ]);
 
+
 self.addEventListener('fetch', (event) => {
   const url = new URL(event.request.url);
 console.log('ef')
