@@ -1,7 +1,7 @@
 {
     "name": "test Lol",
     "description": "o_)",
-    "image": "https://www.b16nary.xyz/M/test.png",
+    "image": "ipfs://bafybeigh5i7dnsghjzrddgl4wqyo2j2iw2zwhbtnx5yv5wtj6tdn2qmjje",
     "seller_fee_basis_points": "500",
     "seller_fee_recipient": "0x476dd85A248E4752bcf259A425d5EBf649203500"
 }
