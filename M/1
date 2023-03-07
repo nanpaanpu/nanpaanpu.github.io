@@ -1,7 +1,7 @@
 {
     "name": "test Lol",
     "description": "o_)",
-    "image": "ipfs://bafybeiayizsxsb3gb26k7xgjfbmdbqdl4m4ayrudcxn4ogqrrt6pfcxp6i/0.png",
+    "image": "ipfs://bafkreiewl5mffevbjvkjqz3hteeh56yji3rykyyapzuqzsbinasiohcvcq",
     "seller_fee_basis_points": "500",
     "seller_fee_recipient": "0x476dd85A248E4752bcf259A425d5EBf649203500"
 }
